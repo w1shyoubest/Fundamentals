@@ -23,13 +23,6 @@ Some common buffers include:
 - **Tris-HCl**, which is often used as a pH-buffering system.
 - **Elution buffer**, which is used to elute DNA, RNA, or proteins.
 
-### Reagents vs. Buffers
-
-In simple terms, **reagents** are the materials that directly participate in the experiment, while **buffers** provide the proper environment for the experiment to happen.
-
-For example, RNase A removes RNA, restriction enzymes cut DNA, and nucleic acid stains help visualize DNA. These are reagents because they directly perform a function in the experiment.
-
-Buffers, on the other hand, help maintain suitable conditions. They stabilize pH, protect DNA or proteins, and allow enzymes to work properly.
 
 ### Why I Include This Section
 
