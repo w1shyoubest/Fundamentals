@@ -496,28 +496,6 @@ In our context, it may also be used during **nuclei isolation/extraction** to ev
 
 ---
 
-## Summary
-
-From the logic of an experiment, these machines can be understood as different parts of a complete workflow.
-
-Before an experiment begins, samples and reagents need to be stored at proper temperatures, so we use **4°C refrigerators**, **-20°C freezers**, and **-80°C freezers**.
-
-During the experiment, if hazardous chemicals are involved, work should be done in a **fume hood** to ensure safety.
-
-For liquid transfer, we use **pipette guns**, **micropipettes**, **pipette tips**, and **tip boxes**.
-
-For tissue or cell samples, we may need an **automill** or **tissue homogenizer** to break and homogenize the sample before extraction.
-
-Many reactions require controlled temperature, incubation, or mixing, so equipment such as **incubators**, **water baths**, **thermomixers**, **HulaMixers**, and **thermo rockers** are used.
-
-In molecular biology experiments, the **PCR machine** is used to amplify DNA, while the **gel electrophoresis system** is used to separate and check DNA/RNA fragments.
-
-Finally, **Nanodrop** and **Qubit** are used to measure sample concentration, **gel imaging systems** are used to visualize nucleic acid bands, and **fluorescence cell counters** are used to count cells or nuclei and evaluate sample quality.
-
-Understanding the purpose of each piece of equipment is not only about knowing its name. More importantly, it helps us understand why each step is performed, how experimental conditions are controlled, and how to make results more reliable, reproducible, and safe.
-
----
-
 ## Note
 
 This is an initial version of this section. Some descriptions may not be fully accurate or complete yet. I will continue to revise and improve this document as I gain more experience and a better understanding of the lab workflow.
