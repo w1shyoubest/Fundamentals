@@ -8,9 +8,9 @@ This section introduces common equipment used in Monroe Lab. Becoming familiar w
 
 ---
 
-## 1. Storage Equipment: Refrigerators and Freezers
+## 1. Storage and Cold Handling Equipment
 
-Before an experiment begins, many samples and reagents need to be stored at specific temperatures. Therefore, refrigerators and freezers are some of the most basic and important pieces of equipment in the laboratory.
+Before an experiment begins, many samples and reagents need to be stored at specific temperatures. During experiments, many biological molecules also need to be kept cold to prevent degradation. Therefore, refrigerators, freezers, liquid nitrogen, ice buckets, and cooling blocks are all important tools for maintaining sample stability.
 
 ---
 
@@ -72,6 +72,122 @@ Common items stored at -80°C include:
 Samples stored at -80°C are often valuable and sometimes difficult to replace. Therefore, clear labeling, accurate location records, and proper freezer organization are very important.
 
 Frequent door opening or leaving the freezer open for too long can cause temperature fluctuations, which may affect sample quality.
+
+---
+
+### 1.4 Liquid Nitrogen Tank
+
+A **liquid nitrogen tank** is used to store or transport liquid nitrogen, which is extremely cold, around **-196°C**. Liquid nitrogen is commonly used when samples need to be frozen very quickly or kept at ultra-low temperatures.
+
+Liquid nitrogen is commonly used for:
+
+- Snap-freezing tissue samples
+- Preserving cells or biological samples
+- Keeping samples extremely cold during transfer
+- Cooling tissue before grinding
+- Preserving RNA, protein, or metabolite samples before extraction
+
+For example, in plant or animal tissue experiments, fresh tissue may be immediately frozen in liquid nitrogen after collection. This process is called **snap freezing**. Snap freezing helps stop biological activity quickly and preserves RNA, proteins, metabolites, or other molecules before extraction.
+
+Liquid nitrogen is also useful when grinding tissue. Frozen tissue becomes brittle, which makes it easier to grind into powder and helps prevent molecular degradation during sample preparation.
+
+However, liquid nitrogen is hazardous and must be handled carefully.
+
+Important safety points:
+
+- Liquid nitrogen can cause severe cold burns or frostbite.
+- Always wear proper PPE, such as cryogenic gloves, lab coat, and eye/face protection.
+- Do not seal liquid nitrogen in a closed container because pressure can build up and cause an explosion.
+- Use liquid nitrogen only in well-ventilated areas because nitrogen gas can displace oxygen.
+- Be careful when pouring or transferring liquid nitrogen.
+- Do not touch liquid nitrogen-cooled metal or surfaces with bare hands.
+
+The main purpose of a liquid nitrogen tank is:
+
+> To store liquid nitrogen for ultra-low-temperature freezing, preservation, and sample handling.
+
+---
+
+### 1.5 Ice Bucket
+
+An **ice bucket** is a simple container used to hold ice and keep samples or reagents cold during experiments.
+
+Ice buckets are very common in wet lab work because many enzymes, nucleic acids, proteins, and biological samples are temperature-sensitive. Keeping them on ice can slow degradation and help maintain activity or stability.
+
+Ice buckets are commonly used for:
+
+- Keeping enzymes cold
+- Keeping DNA/RNA samples cold
+- Keeping protein samples cold
+- Holding PCR reagents before setup
+- Maintaining temperature-sensitive samples during extraction
+- Temporarily storing tubes during an experiment
+
+For example, during PCR setup, enzyme mixes or DNA polymerase are often kept on ice before being placed into the PCR machine. During RNA extraction, samples and reagents may also be kept cold to reduce RNA degradation.
+
+The temperature of an ice bucket is usually around **0°C**, depending on the ice/water mixture. It is much warmer than -20°C or liquid nitrogen, so it is mainly used for short-term cooling during active experimental work.
+
+Important points:
+
+- Do not let tube labels get damaged by melted ice water.
+- Make sure tubes are closed tightly to avoid water contamination.
+- Use a tube rack or floating rack if needed.
+- Replace ice when it melts.
+- Keep ice buckets clean to avoid contamination.
+- For RNA or protein work, keeping samples cold can be very important.
+
+The main purpose of an ice bucket is:
+
+> To keep samples and reagents cold during short-term experimental handling.
+
+---
+
+### 1.6 Cooling Block / Cold Block
+
+A **cooling block**, also called a **cold block**, is a metal or temperature-conductive block used to keep tubes cold in a more organized and stable way than placing tubes directly into ice.
+
+This is sometimes informally described as a “cold metal block,” but in most labs it is not called an iron block. A more accurate name is usually **cooling block**, **cold block**, or **aluminum cooling block**.
+
+Cooling blocks usually have holes designed for specific tube sizes, such as:
+
+- PCR tubes
+- 0.2 mL tubes
+- 1.5 mL microcentrifuge tubes
+- 2 mL tubes
+- Plate strips
+
+Cooling blocks can be pre-chilled on ice, in a refrigerator, in a freezer, or sometimes on dry ice, depending on the experiment. Once chilled, they help keep samples at a low temperature while also holding tubes upright and organized.
+
+Cooling blocks are commonly used for:
+
+- PCR setup
+- Enzyme reaction setup
+- RNA work
+- Protein work
+- Keeping samples cold without direct contact with melting ice
+- Organizing tubes while maintaining low temperature
+
+Compared with placing tubes directly in ice, cooling blocks have several advantages:
+
+- Tubes stay upright and organized.
+- Labels are less likely to get wet.
+- There is less risk of ice water entering tubes.
+- Temperature contact is more consistent.
+- It is easier to handle multiple samples in order.
+
+For example, during PCR setup, a cooling block can hold PCR tubes or strip tubes while keeping master mix, primers, and template DNA cold. This helps reduce non-specific reactions before the PCR program starts.
+
+Important points:
+
+- Pre-chill the block before use.
+- Choose the correct block for the tube size.
+- Do not assume the block stays cold forever; it gradually warms up at room temperature.
+- For very temperature-sensitive samples, monitor time carefully.
+- Keep the block clean to avoid contamination.
+
+The main purpose of a cooling block is:
+
+> To keep tubes cold, upright, and organized during temperature-sensitive experimental steps.
 
 ---
 
@@ -360,7 +476,68 @@ Proper homogenization can strongly affect extraction efficiency and final sample
 
 ---
 
-### 4.2 Centrifuge
+### 4.2 Stainless Steel Beads / Grinding Beads
+
+**Stainless steel beads**, also called **grinding beads** or **homogenization beads**, are small metal beads used to help physically disrupt and homogenize biological samples.
+
+They are commonly used together with equipment such as an **automill**, **tissue homogenizer**, or **bead mill**. During homogenization, the machine shakes or moves the sample tubes rapidly, and the beads hit the tissue or pellet repeatedly. This mechanical force helps break the sample into smaller pieces and makes it easier to extract DNA, RNA, proteins, or other molecules.
+
+Stainless steel beads are especially useful for tough or fibrous samples that are difficult to break by simple pipetting or vortexing.
+
+They are commonly used for:
+
+- Plant tissue grinding
+- Animal tissue homogenization
+- Tough cell disruption
+- Bacterial or fungal sample disruption
+- DNA extraction
+- RNA extraction
+- Protein extraction
+- Metabolite extraction
+
+For example, in plant DNA extraction, leaf tissue can be placed into a tube with stainless steel beads and lysis buffer, or the tissue can be kept frozen before grinding. When the tube is processed in an automill, the beads help crush the tissue into a more uniform mixture. This allows the lysis buffer to contact the cells more efficiently and improves extraction yield.
+
+The main function of stainless steel beads is:
+
+> To mechanically break and homogenize biological samples during sample preparation.
+
+Compared with manual grinding, using stainless steel beads with a homogenizer can be:
+
+- Faster
+- More consistent
+- Better for processing many samples
+- More effective for tough tissues
+- Less dependent on individual technique
+
+However, stainless steel beads should be used carefully. Because they generate strong mechanical force, over-grinding may damage sensitive molecules or structures.
+
+Important points:
+
+- Use the correct bead size for the sample and tube.
+- Make sure tubes are compatible with bead beating or homogenization.
+- Do not overfill tubes.
+- Ensure tubes are tightly closed before homogenization.
+- Avoid excessive grinding if working with long genomic DNA, fragile nuclei, or sensitive protein complexes.
+- Clean, sterilize, or use new beads when required to prevent cross-contamination.
+- Be careful when removing beads after grinding.
+
+For high-molecular-weight DNA extraction, excessive bead beating may cause **DNA shearing**. For nuclei isolation, strong homogenization may damage nuclei. Therefore, bead size, grinding time, shaking speed, and sample type all need to be considered.
+
+Stainless steel beads are different from magnetic beads:
+
+| Bead Type | Main Purpose | Common Use |
+|---|---|---|
+| Stainless steel beads / grinding beads | Physically break and homogenize samples | Tissue grinding, sample disruption |
+| Magnetic beads | Bind and purify target molecules | DNA/RNA cleanup, protein pull-down, library preparation |
+
+In simple terms:
+
+- **Stainless steel beads** are used to break samples.
+- **Magnetic beads** are used to bind and purify molecules.
+
+---
+
+### 4.3 Centrifuge
 
 A **centrifuge** is used to separate components in a sample by spinning at high speed and generating centrifugal force.
 
@@ -400,7 +577,7 @@ In protocols, centrifugation conditions may be written as **rpm** or **×g / RCF
 
 ---
 
-### 4.3 Magnetic Rack
+### 4.4 Magnetic Rack
 
 A **magnetic rack** is a tube rack with magnets. It is mainly used for **magnetic bead-based experiments**.
 
@@ -740,4 +917,3 @@ In our context, it may also be used during **nuclei isolation/extraction** to ev
 ## Note
 
 This is an initial version of this section. Some descriptions may not be fully accurate or complete yet. I will continue to revise and improve this document as I gain more experience and a better understanding of the lab workflow.
-
