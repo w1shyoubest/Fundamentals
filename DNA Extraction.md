@@ -162,7 +162,7 @@ Each step has a specific purpose.
 | Quality control | Check DNA concentration, purity, and fragment size |
 | Downstream application | Use DNA for PCR, sequencing, genotyping, cloning, etc. |
 
-> **Plant Lab Note:**  
+> **Note:**  
 > In plant DNA extraction, contaminant removal is often the hardest part. Plant lysates can contain polysaccharides, polyphenols, pigments, starch, oils, and secondary metabolites that co-purify with DNA and inhibit downstream reactions.
 
 ---
