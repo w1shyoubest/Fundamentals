@@ -2,8 +2,7 @@
 
 ## Overview
 
-DNA extraction is one of the most fundamental techniques in molecular biology.  
-The goal is to isolate DNA from biological samples while removing proteins, RNA, lipids, salts, polysaccharides, phenolic compounds, and other contaminants.
+DNA extraction is one of the most fundamental techniques in molecular biology. The goal is to isolate DNA from biological samples while removing proteins, RNA, lipids, salts, polysaccharides, phenolic compounds, and other contaminants.
 
 Because our lab mainly works with plants, this document emphasizes **plant DNA extraction**, especially the challenges caused by plant cell walls, polysaccharides, polyphenols, pigments, starch, and secondary metabolites.
 
